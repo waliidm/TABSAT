@@ -1,3 +1,3 @@
 @echo off
-start /wait .\TABSAT.exe "PATH_TO_TAB_STEAM_LIBRARY\steamapps\common\They Are Billions"
+start /wait .\TABSAT.exe "F:\Bureau\They.Are.Billions.v1.0.19.9\steamclient_loader.exe"
 pause
